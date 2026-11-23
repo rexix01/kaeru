@@ -69,3 +69,9 @@ config XIAOMI_GALE
     default n
     help
       Say Y if you want to include support for Redmi 13C
+
+config XIAOMI_WATER
+    bool "Support Redmi A2 / A2+ / POCO C51"
+    default n
+    help
+      Say Y if you want to include support for Redmi A2 / A2+ / POCO C51.
